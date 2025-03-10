@@ -8,7 +8,7 @@ Tia Portal v17 SQL Communication:
 - Read Data.
 - SQL WINCC.
 
-Tia Portal v15.1 Communication:
+Tia Portal v15.1 SQL Communication:
 
 - MSSQL communication.
 - Visual Basic Scripting.
