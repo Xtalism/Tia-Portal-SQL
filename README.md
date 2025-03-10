@@ -1,3 +1,19 @@
 # Tia Portal SQL Communication
 
-[Watch the Video](videos/HAGENTECK%20Tia%20Portal%20-%20MS%20SQL%20Demo.mkv)
+Tia Portal v17 SQL Communication:
+
+- MSSQL communication.
+- [SIEMENS example used](https://support.industry.siemens.com/cs/document/109779336/connecting-a-s7-1200-plc-s7-1500-plc-to-a-sql-database-?dti=0&lc=en-MX).
+- Send Data.
+- Read Data.
+- WINCC SQL.
+
+Tia Portal v15.1 Communication:
+
+- MSSQL communication.
+- Visual Basic Scripting.
+- Human Machine Inteface
+- Creation of Database.
+- Removement of Database.
+- Send Data.
+- SQL Express.
