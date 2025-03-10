@@ -3,10 +3,10 @@
 Tia Portal v17 SQL Communication:
 
 - MSSQL communication.
-- [SIEMENS example used](https://support.industry.siemens.com/cs/document/109779336/connecting-a-s7-1200-plc-s7-1500-plc-to-a-sql-database-?dti=0&lc=en-MX).
+- SIEMENS ID: [109779336](https://support.industry.siemens.com/cs/document/109779336/connecting-a-s7-1200-plc-s7-1500-plc-to-a-sql-database-?dti=0&lc=en-MX).
 - Send Data.
 - Read Data.
-- WINCC SQL.
+- SQL WINCC.
 
 Tia Portal v15.1 Communication:
 
